@@ -60,3 +60,6 @@ function fetchPage () {
     fetchPage.call(self)
   })
 }
+
+module.exports = Adapter
+
