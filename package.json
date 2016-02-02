@@ -1,6 +1,6 @@
 {
   "name": "giffer-adapter-tumblr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Giffer adapter for tumblr",
   "main": "index.js",
   "scripts": {
