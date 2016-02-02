@@ -1,0 +1,33 @@
+{
+  "name": "giffer-adapter-tumblr",
+  "version": "1.0.0",
+  "description": "Giffer adapter for tumblr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MaxGfeller/giffer-adapter-imgur.git"
+  },
+  "keywords": [
+    "giffer",
+    "adapter",
+    "tumblr",
+    "gif",
+    "funny"
+  ],
+  "author": "Max Gfeller <max.gfeller@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxGfeller/giffer-adapter-imgur/issues"
+  },
+  "homepage": "https://github.com/MaxGfeller/giffer-adapter-imgur#readme",
+  "dependencies": {
+    "inherits": "^2.0.1",
+    "tumblr.js": "0.0.7"
+  },
+  "devDependencies": {
+    "standard": "^5.4.1"
+  }
+}
